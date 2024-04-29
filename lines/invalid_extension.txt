@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main(void)
+{
+    std::cout << "what is this program?";
+    return 0;
+}
